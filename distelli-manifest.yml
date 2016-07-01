@@ -1,3 +1,14 @@
 distelli/RsinghGithubTest:
   Build:
     - echo "Building RsinghGithubTest"
+    - sleep 10
+    - echo "Slept 10. Sleeping 10 more"
+    - sleep 10
+    - echo "Slept 10. Sleeping 10 more"
+    - sleep 10
+    - echo "Slept 10. Sleeping 10 more"
+    - sleep 10
+    - echo "Slept 10. Sleeping 10 more"
+    - sleep 10
+    - echo "Slept 10. Sleeping 10 more"
+    
