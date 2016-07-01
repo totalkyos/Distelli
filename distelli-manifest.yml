@@ -1,14 +1,5 @@
 distelli/RsinghGithubTest:
   Build:
     - echo "Building RsinghGithubTest"
-    - sleep 10
-    - echo "Slept 10. Sleeping 10 more"
-    - sleep 10
-    - echo "Slept 10. Sleeping 10 more"
-    - sleep 10
-    - echo "Slept 10. Sleeping 10 more"
-    - sleep 10
-    - echo "Slept 10. Sleeping 10 more"
-    - sleep 10
-    - echo "Slept 10. Sleeping 10 more"
+    - for x in `seq 1 10` ; do echo "sleep 10" ; done
     
